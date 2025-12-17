@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, Navneet Kumar</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ML-Enthusiast-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/India-Nagpur-green?style=for-the-badge">
+  
+  <img src="https://img.shields.io/badge/India-Ghaziabad-green?style=for-the-badge">
 </p>
 
 
