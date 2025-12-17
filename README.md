@@ -19,4 +19,51 @@ Database : MongoDB, MySQL
 Additional Skills: Problem-Solving, Git, GitHub, VS Code, Render, Postman
 
 
+<p align="center">
+  <img src="./banner.png" alt="Pravin Nandankar Banner" width="100%">
+</p>
 
+<h1 align="center">Hi 👋, I'm Pravin Nandankar</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ML-Enthusiast-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/India-Nagpur-green?style=for-the-badge">
+</p>
+
+---
+
+### 💫 About Me
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=pravin435916&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+
+- 🔭 **I’m currently working on:** Building personal projects using **React and Javascript**.
+- 🎓 **I’m currently learning:** WebAssembly, Rust, and advanced ML models.
+- 👯 **I’m looking to collaborate on:** Open-source projects and creative web apps.
+- ⚡ **Fun Fact:** Debugging is like solving a mystery where you're the detective, the victim, and the murderer... all at once!
+
+---
+
+### 👩🏾‍💻 Tech Stack & Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS` |
+| **Frontend** | `React.js`, `Tailwind CSS` |
+| **Backend** | `Node.js`, `Express.js`, `MongoDB`, `REST APIs` |
+| **ML/Data** | `EDA`, `Regression`, `Classification` |
+| **Tools** | `Git`, `GitHub`, `VS Code` |
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin435916&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</p>
